@@ -12,8 +12,6 @@ OData (the Open Data protocol) was born of the belief that data APIs should foll
 
 Programmable Web has been registering data APIs since 2005. At the end of 2005 there were barely 100 APIs registered. These APIs included such notables as Flickr, Skype, eBay, Google Maps and Salesforce.com as well as a number of lesser known APIs like Ning and TypePad. Data APIs were registered slowly over the next three years, taking until late 2008 to reach the 1,000 mark. However, this was just the beginning of a hockey stick growth curve. The first thousand registered APIs were built over eight years (2000-2008). It took only 18 months to accrue the next thousand APIs, and just over 9 months for the thousand APIs after that. Growth accelerated dramatically in 2011, which saw more than 2,000 new API registrations for a total of nearly 5,000 APIs. By the end of 2012 there were more than 8,000 registered data APIs at ProgrammableWeb.com.
 
-<figure>![](images/Data_APIs_by_Month.jpg)</figure>
-
 The point of all these numbers is that data APIs are more likely an expectation than a luxury for new Web properties. Although these are publicly registered APIs we see similar growth in enterprise services. Where the three tier model used to commonly be database, Web site, browser, it would be easy to argue that now the three tier model is database, data API, client. One really interesting trend is the uptick in Web sites that are built on top of a public data API (that is, the Web site acts as just another client of the data API).
 
 ## The Lack of Standardization
@@ -69,8 +67,9 @@ As we&rsquo;ll see later in the chapter, these design decisions are precisely th
 
 Some of these design decisions, such as URL construction, are both a significant time investment and critical to the success of the API. In spite of the potential for getting it wrong, data API designers seem to disproportionately suffer from Not Invented Here syndrome. Mike Amundsen and Leonard Richardson talk about this in their new book _Restful Web APIs_:
 
-<aside data-type="sidebar">&ldquo;The main problem I&rsquo;m trying to solve in this book is that hundreds of person-years of design work is locked up in fiat standards where it can&rsquo;t be reused. This needs to stop. Designing a new API today means reinventing a long series of wheels. Once your API is finished, your client developers have to reinvent corresponding wheels on the client side.&rdquo;</aside>
-</section>
+**TODO: Sidebar
+
+The main problem I&rsquo;m trying to solve in this book is that hundreds of person-years of design work is locked up in fiat standards where it can&rsquo;t be reused. This needs to stop. Designing a new API today means reinventing a long series of wheels. Once your API is finished, your client developers have to reinvent corresponding wheels on the client side.&rdquo;
 
 ### Creating and Updating Documentation
 
