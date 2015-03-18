@@ -1,8 +1,4 @@
-<section data-type="chapter">
-
 # Getting Started with OData
-
-<section data-type="sect1">
 
 # This Is an A-Head
 
@@ -14,30 +10,11 @@ Start writing here! Replace any of this placeholder text with your opus. We've i
 
 The above is a blockquote, and specifically it's an epigraph, with an attribution to the author. (Epigraphs are a subset of blockquotes.)
 
-<div data-type="note">
-
-# This Is a Note
-
-Many people use notes to qualify a statement they made in the preceding paragraphs, or to warn their readers about pitfalls they might run into.
-
-</div>
-
 Now, let's take a look at a figure with a caption:
-
-<figure>![](images/figure.jpg) <figcaption>Caption: This is a picture of my friend Mike's cat.</figcaption></figure>
-
-<section data-type="sect2">
 
 ## This Is a B-Head
 
 Add your text here.
-
-<aside data-type="sidebar">
-
-##### Sidebar Title
-
-Here's a sidebar. Sidebars are great for setting aside a section of text that is related to the surrounding content but that doesn't necessarily fit into the main flow.
-
 </aside>
 </section>
 </section>
