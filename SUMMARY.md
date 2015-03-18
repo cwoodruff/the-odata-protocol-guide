@@ -11,5 +11,5 @@
 * [OData HTTP Convention and Operations](08-chapter-6-HTTP_Conventions_and_Operations.md)
 * [Going Beyond CRUD with OData](09-chapter-7-Going_Beyond_CRUD.md)
 * [OData and RDMS](10-chapter-8-OData_and_RDMS.md)
-* OData and Non-Relational Data Stores
+* [OData and Non-Relational Data Stores](11-chapter-9-OData_and_Non-Relational_Data_Stores.md)
 
