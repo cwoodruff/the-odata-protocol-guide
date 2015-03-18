@@ -25,11 +25,3 @@ Now, let's take a look at a figure with a caption:
 ## This Is a B-Head
 
 Add your text here.
-
-<aside data-type="sidebar">
-
-##### Sidebar Title
-
-Here's a sidebar. Sidebars are great for setting aside a section of text that is related to the surrounding content but that doesn't necessarily fit into the main flow.
-
-</aside>
