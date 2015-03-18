@@ -10,14 +10,6 @@ Start writing here! Replace any of this placeholder text with your opus. We've i
 
 The above is a blockquote, and specifically it's an epigraph, with an attribution to the author. (Epigraphs are a subset of blockquotes.)
 
-<div data-type="note">
-
-# This Is a Note
-
-Many people use notes to qualify a statement they made in the preceding paragraphs, or to warn their readers about pitfalls they might run into.
-
-</div>
-
 Now, let's take a look at a figure with a caption:
 
 ## This Is a B-Head
