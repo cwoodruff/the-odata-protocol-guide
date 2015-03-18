@@ -14,5 +14,5 @@
 * [OData and Non-Relational Data Stores](11-chapter-9-OData_and_Non-Relational_Data_Stores.md)
 * [Extending OData](12-chapter-10-Extending_OData.md)
 * [Geolocation in OData](13-chapter-11-Geolocation.md)
-* OData Best Practices
+* [OData Best Practices](14-chapter-12-Best_Practices.md)
 
