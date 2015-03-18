@@ -2,8 +2,6 @@
 
 # OData and Non-Relational Data Stores
 
-<section data-type="sect1">
-
 # This Is an A-Head
 
 Start writing here! Replace any of this placeholder text with your opus. We've included a few examples of commonly used book elements, but you can delete them. You can add any of these elements using the buttons in the toolbar, as well.
@@ -26,8 +24,6 @@ Now, let's take a look at a figure with a caption:
 
 <figure>![](images/figure.jpg) <figcaption>Caption: This is a picture of my friend Mike's cat.</figcaption></figure>
 
-<section data-type="sect2">
-
 ## This Is a B-Head
 
 Add your text here.
@@ -39,9 +35,3 @@ Add your text here.
 Here's a sidebar. Sidebars are great for setting aside a section of text that is related to the surrounding content but that doesn't necessarily fit into the main flow.
 
 </aside>
-</section>
-</section>
-</section>
-<!-- Files for the following:
-	Copyright
--->
