@@ -1,8 +1,4 @@
-<section data-type="chapter">
-
 # OData and Relational Database Management Systems
-
-<section data-type="sect1">
 
 # This Is an A-Head
 
@@ -39,9 +35,3 @@ Add your text here.
 Here's a sidebar. Sidebars are great for setting aside a section of text that is related to the surrounding content but that doesn't necessarily fit into the main flow.
 
 </aside>
-</section>
-</section>
-</section>
-<!-- Files for the following:
-	Copyright
--->
