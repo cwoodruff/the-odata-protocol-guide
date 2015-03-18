@@ -20,8 +20,6 @@ Many people use notes to qualify a statement they made in the preceding paragrap
 
 Now, let's take a look at a figure with a caption:
 
-<figure>![](images/figure.jpg) <figcaption>Caption: This is a picture of my friend Mike's cat.</figcaption></figure>
-
 ## This Is a B-Head
 
 Add your text here.
