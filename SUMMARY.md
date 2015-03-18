@@ -15,4 +15,5 @@
 * [Extending OData](12-chapter-10-Extending_OData.md)
 * [Geolocation in OData](13-chapter-11-Geolocation.md)
 * [OData Best Practices](14-chapter-12-Best_Practices.md)
+* Appendix
 
