@@ -13,4 +13,5 @@
 * [OData and RDMS](10-chapter-8-OData_and_RDMS.md)
 * [OData and Non-Relational Data Stores](11-chapter-9-OData_and_Non-Relational_Data_Stores.md)
 * [Extending OData](12-chapter-10-Extending_OData.md)
+* Geolocation in OData
 
