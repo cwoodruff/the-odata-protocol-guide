@@ -87,7 +87,7 @@ Subbu Allamaraju also discusses this problem in the [RESTful Web Services Cookbo
 
 The best way to promote design- and development-time discoverability is to unambiguously document the information needed to implement clients.
 
-</aside>
+**TODO: Sidebar end
 
 **Problem**
 
@@ -209,7 +209,7 @@ Many of these terms are defined in more detail in _Chapter 3, The Metadata and S
 
 For instance, let's talk about a very basic model of a social graph. For the purpose of discussion, let's consider this very simple model:
 
-<figure>![](images/simple_model.jpg)</figure>
+**TODO: figure (images/simple_model.jpg)
 
 Let's also assume that we have an OData service with the service root [http://social.example.org/api/](http://social.example.org/api/). The service root returns a service document containing an entity set named People for the Person entity type and an entity set named Photos for the Photo entity type.
 
