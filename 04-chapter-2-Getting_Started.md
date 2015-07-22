@@ -15,7 +15,3 @@ Now, let's take a look at a figure with a caption:
 ## This Is a B-Head
 
 Add your text here.
-</aside>
-</section>
-</section>
-</section>
